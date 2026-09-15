@@ -1,0 +1,5 @@
+﻿clips/*
+!clips/.gitkeep
+
+Output/*
+!Output/.gitkeep
